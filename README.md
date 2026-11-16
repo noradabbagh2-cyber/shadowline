@@ -1,5 +1,8 @@
 # Shadowline — lunar reactor siting game
 
+**Play it in your browser:** https://noradabbagh2-cyber.github.io/shadowline/ ·
+**Demo slides:** [docs/Shadowline-Demo.pdf](docs/Shadowline-Demo.pdf)
+
 A browser game about one question: **how close can a 100 kWe fission reactor sit to astronauts on the Moon?**
 
 You lay out a lunar south pole base on real LOLA terrain: a reactor, a crew habitat, and an EVA route to a
